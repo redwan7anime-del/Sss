@@ -1,0 +1,80 @@
+{
+  "id": "g_nqzj4g2r",
+  "threadMainID": "779484534891229",
+  "players": [
+    {
+      "userID": "100000307991292",
+      "name": "Celcius Waran",
+      "role": "قناص",
+      "alive": true,
+      "vote": null,
+      "_voted": false
+    },
+    {
+      "userID": "100006079248004",
+      "name": "Pennapa Wongkham",
+      "role": "محقق",
+      "alive": true,
+      "vote": null,
+      "_voted": false
+    },
+    {
+      "userID": "100001576215267",
+      "name": "Sedat Karakaş",
+      "role": "طبيب",
+      "alive": true,
+      "vote": null,
+      "_voted": false
+    },
+    {
+      "userID": "100004069393710",
+      "name": "Suci Yati",
+      "role": "مهرج",
+      "alive": true,
+      "vote": null,
+      "_voted": false
+    },
+    {
+      "userID": "100002294436994",
+      "name": "クリーン モレッティ",
+      "role": "مافيا",
+      "alive": true,
+      "vote": null,
+      "_voted": false
+    },
+    {
+      "userID": "100007578046649",
+      "name": "Süleyman Kahraman",
+      "role": "سجان",
+      "alive": true,
+      "vote": null,
+      "_voted": false
+    }
+  ],
+  "phase": "day",
+  "round": 2,
+  "actionQueue": {},
+  "voteTally": {},
+  "log": [
+    {
+      "round": 1,
+      "deaths": []
+    },
+    {
+      "round": 2,
+      "deaths": []
+    }
+  ],
+  "loverLinks": {},
+  "joinReactions": {
+    "100000307991292": true,
+    "100006079248004": true,
+    "100001576215267": true,
+    "100004069393710": true,
+    "100002294436994": true,
+    "100007578046649": true
+  },
+  "joinMsgID": "mid.$gAALE7-LPYt2jdaJoR2dRF0RlQZzI",
+  "blockedVoters": [],
+  "laanCurse": {}
+}

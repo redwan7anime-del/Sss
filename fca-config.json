@@ -1,0 +1,7 @@
+{
+  "autoLogin": false,
+  "mqtt": {
+    "enabled": true,
+    "reconnectInterval": 1800
+  }
+}

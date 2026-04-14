@@ -1,0 +1,57 @@
+{
+  "id": "g_fho9vp80",
+  "threadMainID": "779484534891229",
+  "players": [
+    {
+      "userID": "100004069393710",
+      "name": "Suci Yati",
+      "role": "مافيا",
+      "alive": true,
+      "vote": null,
+      "_voted": false
+    },
+    {
+      "userID": "100000307991292",
+      "name": "Celcius Waran",
+      "role": "دكتور",
+      "alive": false,
+      "vote": null,
+      "_voted": false
+    },
+    {
+      "userID": "100007578046649",
+      "name": "Süleyman Kahraman",
+      "role": "محقق",
+      "alive": true,
+      "vote": "100007578046649",
+      "_voted": true
+    },
+    {
+      "userID": "100001576215267",
+      "name": "Sedat Karakaş",
+      "role": "مواطن",
+      "alive": true,
+      "vote": "100001576215267",
+      "_voted": true
+    }
+  ],
+  "phase": "night",
+  "round": 2,
+  "actionQueue": {},
+  "voteTally": {
+    "100007578046649": 1,
+    "100001576215267": 1
+  },
+  "log": [
+    {
+      "round": 1,
+      "deaths": [
+        {
+          "userID": "100000307991292",
+          "name": "Celcius Waran",
+          "role": "دكتور"
+        }
+      ]
+    }
+  ]
+}

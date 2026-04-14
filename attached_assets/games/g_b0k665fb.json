@@ -1,0 +1,140 @@
+{
+  "id": "g_b0k665fb",
+  "threadMainID": "1230468002404604",
+  "players": [
+    {
+      "userID": "100000307991292",
+      "name": "Celcius Waran",
+      "role": "مهرج",
+      "alive": false,
+      "vote": "61582742323034",
+      "_voted": true
+    },
+    {
+      "userID": "61581080900794",
+      "name": "Redwan L'm",
+      "role": "مافيا",
+      "alive": true,
+      "vote": null,
+      "_voted": false
+    },
+    {
+      "userID": "100006079248004",
+      "name": "Pennapa Wongkham",
+      "role": "سجان",
+      "alive": true,
+      "vote": null,
+      "_voted": false
+    },
+    {
+      "userID": "61580901059058",
+      "name": "Ali H'l",
+      "role": "لعان",
+      "alive": false,
+      "vote": null,
+      "_voted": false
+    },
+    {
+      "userID": "61554094183100",
+      "name": "ろ宗谷 あざし",
+      "role": "مواطن",
+      "alive": true,
+      "vote": null,
+      "_voted": false
+    },
+    {
+      "userID": "100088317276906",
+      "name": "Wiaam Lok",
+      "role": "SCP-096",
+      "alive": true,
+      "vote": null,
+      "_voted": false
+    },
+    {
+      "userID": "61582742323034",
+      "name": "dollesstte薔",
+      "role": "قناص",
+      "alive": true,
+      "vote": null,
+      "_voted": false
+    },
+    {
+      "userID": "100001576215267",
+      "name": "Sedat Karakaş",
+      "role": "طبيب",
+      "alive": false,
+      "vote": null,
+      "_voted": false
+    },
+    {
+      "userID": "100091418715135",
+      "name": "Nao Iı",
+      "role": "محقق",
+      "alive": true,
+      "vote": null,
+      "_voted": false
+    },
+    {
+      "userID": "61567486442958",
+      "name": "Yoshida Wattanabe",
+      "role": "مافيا",
+      "alive": true,
+      "vote": null,
+      "_voted": false
+    },
+    {
+      "userID": "100002294436994",
+      "name": "クリーン モレッティ",
+      "role": "خطابة",
+      "alive": false,
+      "vote": null,
+      "_voted": false
+    }
+  ],
+  "phase": "day",
+  "round": 3,
+  "actionQueue": {},
+  "voteTally": {
+    "61582742323034": 1
+  },
+  "log": [
+    {
+      "round": 1,
+      "deaths": [
+        {
+          "userID": "100002294436994",
+          "name": "クリーン モレッティ",
+          "role": "خطابة"
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "deaths": [
+        {
+          "userID": "100001576215267",
+          "name": "Sedat Karakaş",
+          "role": "طبيب",
+          "byScp": true
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "deaths": [
+        {
+          "userID": "100000307991292",
+          "name": "Celcius Waran",
+          "role": "مهرج",
+          "byScp": true
+        }
+      ]
+    }
+  ],
+  "loverLinks": {},
+  "joinMsgID": "mid.$gAARfGqgw2PyjcOMl22dP53UKskgF",
+  "pendingJoins": {},
+  "blockedVoters": [],
+  "laanCurse": {},
+  "_nahabResults": []
+}

@@ -1,0 +1,30 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@distube/ytdl-core": "^4.16.12",
+    "@dongdev/fca-unofficial": "^4.0.3",
+    "@types/node": "^22.19.15",
+    "@ybd-project/ytdl-core": "^6.0.8",
+    "axios": "^1.14.0",
+    "canvas": "^3.2.3",
+    "drizzle-zod": "^0.8.3",
+    "instagram-url-direct": "^2.0.7",
+    "openai": "^6.34.0",
+    "p-limit": "^7.3.0",
+    "p-retry": "^7.1.1",
+    "play-dl": "^1.9.7",
+    "sharp": "^0.34.5",
+    "ytdl-core": "^4.11.5",
+    "zod": "^4.3.6",
+    "zod-validation-error": "^5.0.0"
+  }
+}

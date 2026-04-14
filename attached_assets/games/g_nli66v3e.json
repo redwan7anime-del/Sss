@@ -1,0 +1,77 @@
+{
+  "id": "g_nli66v3e",
+  "threadMainID": "1230468002404604",
+  "players": [
+    {
+      "userID": "100000307991292",
+      "name": "Celcius Waran",
+      "role": "سجان",
+      "alive": true,
+      "vote": null
+    },
+    {
+      "userID": "100002294436994",
+      "name": "クリーン モレッティ",
+      "role": "خطابة",
+      "alive": true,
+      "vote": null
+    },
+    {
+      "userID": "61582742323034",
+      "name": "dollesstte薔",
+      "role": "قناص",
+      "alive": true,
+      "vote": null
+    },
+    {
+      "userID": "100007578046649",
+      "name": "Süleyman Kahraman",
+      "role": "مافيا",
+      "alive": true,
+      "vote": null
+    },
+    {
+      "userID": "100091418715135",
+      "name": "Nao Iı",
+      "role": "طبيب",
+      "alive": true,
+      "vote": null
+    },
+    {
+      "userID": "61554094183100",
+      "name": "ろ宗谷 あざし",
+      "role": "SCP-096",
+      "alive": true,
+      "vote": null
+    },
+    {
+      "userID": "100088317276906",
+      "name": "Wiaam Lok",
+      "role": "مهرج",
+      "alive": true,
+      "vote": null
+    },
+    {
+      "userID": "61567486442958",
+      "name": "Yoshida Wattanabe",
+      "role": "مافيا",
+      "alive": true,
+      "vote": null
+    },
+    {
+      "userID": "100001576215267",
+      "name": "Sedat Karakaş",
+      "role": "محقق",
+      "alive": true,
+      "vote": null
+    }
+  ],
+  "phase": "night",
+  "round": 1,
+  "actionQueue": {},
+  "voteTally": {},
+  "log": [],
+  "loverLinks": {},
+  "joinMsgID": "mid.$gAARfGqgw2PyjcEW6tGdPwBfm3iIL",
+  "pendingJoins": {}
+}

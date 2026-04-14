@@ -1,0 +1,25 @@
+{
+  "id": "g_wl75uile",
+  "threadMainID": "779484534891229",
+  "players": [
+    {
+      "userID": "100004069393710",
+      "name": "Suci Yati",
+      "role": null,
+      "alive": true,
+      "vote": null
+    },
+    {
+      "userID": "100000307991292",
+      "name": "Celcius Waran",
+      "role": null,
+      "alive": true,
+      "vote": null
+    }
+  ],
+  "phase": "joining",
+  "round": 0,
+  "actionQueue": {},
+  "voteTally": {},
+  "log": []
+}

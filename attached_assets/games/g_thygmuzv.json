@@ -1,0 +1,80 @@
+{
+  "id": "g_thygmuzv",
+  "threadMainID": "779484534891229",
+  "players": [
+    {
+      "userID": "100000307991292",
+      "name": "Celcius Waran",
+      "role": "محقق",
+      "alive": true,
+      "vote": null,
+      "_voted": false
+    },
+    {
+      "userID": "100004069393710",
+      "name": "Suci Yati",
+      "role": "مافيا",
+      "alive": true,
+      "vote": "100001576215267",
+      "_voted": true
+    },
+    {
+      "userID": "100001576215267",
+      "name": "Sedat Karakaş",
+      "role": "طبيب",
+      "alive": true,
+      "vote": null,
+      "_voted": false
+    },
+    {
+      "userID": "100002294436994",
+      "name": "クリーン モレッティ",
+      "role": "مهرج",
+      "alive": true,
+      "vote": "100004069393710",
+      "_voted": true
+    },
+    {
+      "userID": "100007578046649",
+      "name": "Süleyman Kahraman",
+      "role": "قناص",
+      "alive": false,
+      "vote": null,
+      "_voted": false
+    }
+  ],
+  "phase": "night",
+  "round": 2,
+  "actionQueue": {
+    "100004069393710": {
+      "target": "100001576215267"
+    }
+  },
+  "voteTally": {
+    "100001576215267": 1,
+    "100004069393710": 1
+  },
+  "log": [
+    {
+      "round": 1,
+      "deaths": [
+        {
+          "userID": "100007578046649",
+          "name": "Süleyman Kahraman",
+          "role": "قناص"
+        }
+      ]
+    }
+  ],
+  "loverLinks": {},
+  "joinReactions": {
+    "100000307991292": true,
+    "100004069393710": true,
+    "100001576215267": true,
+    "100002294436994": true,
+    "100007578046649": true
+  },
+  "joinMsgID": "mid.$gAALE7-LPYt2jdWP79WdRB6kh5vL6",
+  "blockedVoters": [],
+  "laanCurse": {}
+}

@@ -1,0 +1,26 @@
+{
+  "id": "g_hd1zvsf3",
+  "threadMainID": "779484534891229",
+  "players": [
+    {
+      "userID": "100000307991292",
+      "name": "Celcius Waran",
+      "roomID": "912868041594474",
+      "role": null,
+      "alive": true,
+      "vote": null
+    }
+  ],
+  "phase": "joining",
+  "round": 0,
+  "actionQueue": {},
+  "voteTally": {},
+  "log": [],
+  "justExecuted": null,
+  "roomJoinMessages": {
+    "772667895661022": "mid.$gAAK-vMNzQd6jTwnh_GdHcSZnFgOU",
+    "2068895590353515": "mid.$gAAdZpkq9imujTwniCWdHcSZnB4o9",
+    "822274766877211": "mid.$gAALr2sNjMhujTwniG2dHcSZm5hSC",
+    "912868041594474": "mid.$gAAM-P6dYlmqjTwniF2dHcSZm946S"
+  }
+}

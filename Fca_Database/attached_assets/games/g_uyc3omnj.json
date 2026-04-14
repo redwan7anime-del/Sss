@@ -1,0 +1,18 @@
+{
+  "id": "g_uyc3omnj",
+  "threadMainID": "779484534891229",
+  "players": [
+    {
+      "userID": "100007578046649",
+      "name": "Süleyman Kahraman",
+      "role": null,
+      "alive": true,
+      "vote": null
+    }
+  ],
+  "phase": "joining",
+  "round": 0,
+  "actionQueue": {},
+  "voteTally": {},
+  "log": []
+}
